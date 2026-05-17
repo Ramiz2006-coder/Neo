@@ -1,0 +1,8 @@
+{
+  "name": "Velocity Neo",
+  "description": "A high-speed, neon-infused arcade racing game where you dodge traffic and collect points in a futuristic cityscape.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
